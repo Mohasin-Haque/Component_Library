@@ -2,6 +2,8 @@
 
 :root{
     --primary-color: #10B981;
+    --navy-blue: #818CF8
+
 }
 
 body{
@@ -72,3 +74,22 @@ padding: 0rem 0.5rem;
 .navigation .link-active{
     font-weight: bold;
 }
+
+.hero{
+    padding: 2rem;
+}
+
+.hero .hero-image{
+    max-width: 350px;
+    display: block;
+    margin: auto;
+}
+
+.hero .hero-heading{
+    padding-top: 1rem;
+    color: var(--navy-blue);
+}
+
+/* .hero .hero-heading .heading-inverted{
+    color: var(--primary-color);
+} */

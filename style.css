@@ -93,3 +93,9 @@ padding: 0rem 0.5rem;
 /* .hero .hero-heading .heading-inverted{
     color: var(--primary-color);
 } */
+
+.section{
+    text-align: center;
+    padding: 2rem;
+}
+

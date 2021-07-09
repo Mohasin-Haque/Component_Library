@@ -87,6 +87,7 @@ padding: 0rem 0.5rem;
 }
 
 .hero .hero-heading{
+    text-align: center;
     padding-top: 1rem;
     color: var(--navy-blue);
 }

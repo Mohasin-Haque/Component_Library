@@ -2,7 +2,8 @@
 
 :root{
     --primary-color: #10B981;
-    --navy-blue: #818CF8
+    --navy-blue: #818CF8;
+    --off-white: #FCA5A5;
 
 }
 
@@ -95,7 +96,15 @@ padding: 0rem 0.5rem;
 } */
 
 .section{
-    text-align: center;
     padding: 2rem;
 }
 
+.section h1{
+    text-align: center;
+    /* padding: 2rem; */
+}
+
+.off{
+     background-color: var(--off-white);
+
+}
